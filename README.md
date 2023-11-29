@@ -1,6 +1,6 @@
-# TODO: SLIDE TITLE
+# Rubyのリテラルオブジェクト生成をparse.yから卒業させる
 
-TODO: SLIDE DESCRIPTION
+Fukuoka.rb #333 Ninja Talk 大会で話した「Rubyのリテラルオブジェクト生成をparse.yから卒業させる」のスライドです。
 
 ## For author
 
